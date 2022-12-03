@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root>
+  
+  <student>
+    <name>д</name>
+    <lastname>g</lastname>
+    <patronymic>j</patronymic>
+    <age>8</age>
+    <group>7</group>
+  </student>
+</root>
